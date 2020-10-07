@@ -1,2 +1,1 @@
-# awesomedev
-Created for Algonquin College
+#Git Commands I Should Know By Heart
